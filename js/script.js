@@ -15,5 +15,5 @@ function element_scroll() {
     } else {
         nav.classList.remove('active')
     }
-  
+
 }
