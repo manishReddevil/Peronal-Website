@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\css",
+    "\\img",
     "\\js"
   ],
-  "SelectedNode": "\\js\\script.js",
+  "SelectedNode": "\\sendmail.php",
   "PreviewInSolutionExplorer": false
 }
